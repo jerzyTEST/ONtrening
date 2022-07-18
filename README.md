@@ -1,0 +1,2 @@
+# ONtrening
+Ucze sie githuba
